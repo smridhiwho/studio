@@ -55,7 +55,7 @@ export default function MainPage() {
             <SidebarSeparator />
             <SidebarFooter>
               <p className="text-xs text-muted-foreground">
-                Created by Firebase Studio
+                Created by Smridhi 👩🏻‍💻
               </p>
             </SidebarFooter>
           </SidebarContent>
