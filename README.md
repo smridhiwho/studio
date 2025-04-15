@@ -1,4 +1,4 @@
- Spending Manager
+# Spending Manager
 
 ## Overview
 
