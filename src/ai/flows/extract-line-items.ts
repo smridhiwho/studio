@@ -52,7 +52,6 @@ const prompt = ai.definePrompt({
   Return the data in JSON format.
 
   Document URL: {{media url=documentUrl}}
-  `, // Using media tag so the LLM can see the doc.
 });
 
 const extractLineItemsFlow = ai.defineFlow<
